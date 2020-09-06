@@ -64,4 +64,4 @@ function createToggle({ width, backgroundColor }) {
   });
 }
 
-createToggle({});
+module.exports = createToggle;
