@@ -1,0 +1,19 @@
+{
+  "name": "toggle-clean",
+  "version": "1.0.0",
+  "description": "A simple html and javascript toggle element.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arditmirashi2/toggle-clean.git"
+  },
+  "author": "Ardit Mirashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arditmirashi2/toggle-clean/issues"
+  },
+  "homepage": "https://github.com/arditmirashi2/toggle-clean#readme"
+}
