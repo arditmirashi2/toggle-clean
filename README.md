@@ -45,7 +45,7 @@ You can pass options to the **createToggle** method.
 
 ### Option list ##
 
-
+------------ | -------------
 width | Defines the width of the toggle.
 backgroundColor | Defines the background color of the toggle track.
 
