@@ -27,8 +27,27 @@ First, we need to define two div elements, one parent element and one child elem
 ``` html
 <!-- Parent div -->
 <div class="switch-track">
+    <!-- Child div -->
      <div class="switch-thumb"> </div> 
 </div> 
+```
+
+Import the package and initialize the function **createToggle** with an empty object if you want to keep the default toggle.
+
+```javascript 
+createToggle({})
+```
+Congratulations! You created a simple toggle element with just one line of code.
+
+## Options ##
+
+You can pass options to the **createToggle** method.
+
+### Option list ##
+
+``` 
+width | Defines the width of the toggle.
+backgroundColor | Defines the background color of the toggle track.
 ```
 
 
