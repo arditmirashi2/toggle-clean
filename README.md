@@ -45,10 +45,9 @@ You can pass options to the **createToggle** method.
 
 ### Option list ##
 
-``` 
+
 width | Defines the width of the toggle.
 backgroundColor | Defines the background color of the toggle track.
-```
 
 
-### Add class 'switch-track' to a parent div element and 'switch-thumb' to a child div element
+
