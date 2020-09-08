@@ -7,7 +7,6 @@ A simple html and javascript toggle element.
 **npm**
 
 ```
-
 npm install --save toggle-clean 
 ```
 
